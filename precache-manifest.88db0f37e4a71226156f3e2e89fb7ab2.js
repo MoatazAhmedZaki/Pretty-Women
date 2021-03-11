@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/Pretty-Women/static/media/slick.d41f55a7.ttf"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/Pretty-Women/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "1e526beadab113fda992",
+    "revision": "3c9d8982fdedc6ed9f41",
     "url": "/Pretty-Women/static/css/main.d3b73883.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/Pretty-Women/static/media/Lato-Heavy.093466c9.ttf"
   },
   {
-    "revision": "d8edb309295476198b64",
-    "url": "/Pretty-Women/static/js/2.e6a54ee7.chunk.js"
+    "revision": "1a7c4a800e3f98e7e86b",
+    "url": "/Pretty-Women/static/js/2.d9b22161.chunk.js"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/Pretty-Women/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/Pretty-Women/static/media/slick.f97e3bbf.svg"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/Pretty-Women/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "1e526beadab113fda992",
-    "url": "/Pretty-Women/static/js/main.c8c0c175.chunk.js"
+    "revision": "3c9d8982fdedc6ed9f41",
+    "url": "/Pretty-Women/static/js/main.7f0673c8.chunk.js"
   },
   {
     "revision": "56df7768ccfd838b9e1a9fdf74f9997b",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/Pretty-Women/static/media/Lato-Regular.3b9b9903.ttf"
   },
   {
-    "revision": "d8edb309295476198b64",
-    "url": "/Pretty-Women/static/css/2.763719e6.chunk.css"
+    "revision": "1a7c4a800e3f98e7e86b",
+    "url": "/Pretty-Women/static/css/2.f5335925.chunk.css"
   },
   {
-    "revision": "7bbdfce9de09c408db9face34df8a517",
+    "revision": "7043c7eb6ca4fd6ab55494d36c96e382",
     "url": "/Pretty-Women/index.html"
   }
 ];
